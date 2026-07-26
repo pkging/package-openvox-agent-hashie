@@ -1,0 +1,11 @@
+openvox-agent-hashie (5.1.0-1) stable; urgency=low
+
+  * Release 5.1.0, rename package, remove OpenVox 7 support
+
+ -- Lennart Betz <lbetz@prefork.de>  Sun, 26 Jul 2026 20:36:51 +0100
+
+puppet-agent-hashie (5.0.0-1) stable; urgency=low
+
+  * Release 5.0.0
+
+ -- Lennart Betz <lennart.betz@netways.de>  Sat, 31 Aug 2024 14:48:19 +0200
